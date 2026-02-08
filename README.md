@@ -21,10 +21,12 @@ O objetivo foi criar um componente de cartão de QR Code o mais próximo possív
 ### Tecnologias utilizadas
 * HTML5 semântico
 * CSS3 (Flexbox)
-* Mobile-first
+* Git/GitHub
 
 ### O que aprendi
-Neste projeto, pratiquei conceitos fundamentais de Front-end como **Flexbox** para centralização.
+Neste projeto, pratiquei conceitos fundamentais de Front-end:
+**Flexbox**: Utilizado para centralizar o componente perfeitamente na tela.
+**Git/GitHub**: Resolução de conflitos de merge e gerenciamento de codificação de arquivos (UTF-8).
 
-## 👩‍💻 Autora
+## 👩‍💻 Desenvolvedora
 * LinkedIn - [Isis Bia](https://www.linkedin.com/in/isisbeatrizbonfim/)
