@@ -3,6 +3,7 @@
     --azul-escuro: rgb(31, 50, 81);
     --cinza-texto: rgb(125, 135, 152);
     --branco: #ffffff;
+    --sombra-card: 0 0.625rem 1.25rem rgba(0,0,0,0.05);
 }
     body {    
         font-family: 'Outfit', sans-serif;
@@ -17,13 +18,13 @@
         background-color: var(--azul-fundo);
     }
     .card {
-        background-color: var(--branco);
-        max-width: 20rem;
-        width: 90%;   
-        padding: 1rem;
-        border-radius: 1.25rem; 
-        box-shadow: 0 0.625rem 1.25rem rgba(0,0,0,0.05);   
-    }
+    background-color: var(--branco);
+    max-width: 20rem; 
+    width: 90%; 
+    padding: clamp(0.75rem, 4vw, 1.5rem); 
+    border-radius: 1.25rem; 
+    box-shadow: var(--sombra-card); 
+}
     .card img {
         width: 100%;
         border-radius: 0.625rem;
