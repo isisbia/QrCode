@@ -11,7 +11,7 @@ Esta é uma solução para o desafio [QR code component do Frontend Mentor](http
 ## 🔍 Visão Geral
 
 ### O desafio
-O objetivo foi criar um componente de cartão de QR Code o mais próximo possível do design original.
+O objetivo foi criar um componente de cartão de QR Code o mais próximo possível do design original proposto.
 
 ### Links
 * Repositório: [https://github.com/isisbia/QrCode](https://github.com/isisbia/QrCode)
