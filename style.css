@@ -1,0 +1,37 @@
+    body {    
+        font-family: 'Outfit', sans-serif;
+    }
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        min-height: 100vh;
+        background-color: rgb(219, 232, 245);
+    }
+    .card {
+        background-color: white;
+        width: 300px;   
+        padding: 15px;
+        border-radius: 20px; 
+        box-shadow: 0 10px 20px rgba(0,0,0,0.05);   
+    }
+    .card img {
+        width: 100%;
+        border-radius: 20px;
+    }
+    .text {
+        text-align: center;
+    }
+    .text h1 {
+        color: rgb(31, 50, 81);
+        font-size: 22px;
+        margin: 15px;
+        font-weight: 700;
+    }
+    .text p {
+        color: rgb(125, 135, 152);
+        font-size: 15px;
+        margin: 20px;
+        font-weight: 400;
+    }
