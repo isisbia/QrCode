@@ -1,32 +1,20 @@
 # Frontend Mentor - QR Code Component
 
-Esta é uma solução para o desafio [QR code component do Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/challenge/65e6f48617e502f0b6ca3cfe/start).
-
-## 📋 Sumário
-
-* [Visão Geral](#visão-geral)
-* [Meu processo](#meu-processo)
-* [Autora](#autora)
+Esta é uma solução para o desafio [QR code component do Frontend Mentor](https://www.frontendmentor.io/).
 
 ## 🔍 Visão Geral
-
-### O desafio
-O objetivo foi criar um componente de cartão de QR Code o mais próximo possível do design original proposto.
-
-### Links
-* Repositório: [https://github.com/isisbia/QrCode](https://github.com/isisbia/QrCode)
+O objetivo foi criar um componente de cartão de QR Code o mais próximo possível do design original fornecido pelo Frontend Mentor.
 
 ## 🛠️ Meu processo
 
 ### Tecnologias utilizadas
 * HTML5 semântico
 * CSS3 (Flexbox)
-* Git/GitHub
+* Git e GitHub para versionamento
 
 ### O que aprendi
-Neste projeto, pratiquei conceitos fundamentais de Front-end:
-**Flexbox**, utilizado para centralizar o componente perfeitamente na tela e 
-**Git/GitHub**, para a resolução de conflitos de merge e gerenciamento de codificação de arquivos (UTF-8).
+Neste projeto, reforcei meus conhecimentos em centralização de elementos com **Flexbox** e aprendi a resolver conflitos de merge no **Git**, além de ajustar a codificação de arquivos para UTF-8.
 
-## 👩‍💻 Desenvolvedora
+## 👩‍💻 Autora
 * LinkedIn - [Isis Bia](https://www.linkedin.com/in/isisbeatrizbonfim/)
+* Site ao Vivo - [Veja o resultado aqui](https://isisbia.github.io/QrCode/)
