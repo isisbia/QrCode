@@ -25,8 +25,8 @@ O objetivo foi criar um componente de cartão de QR Code o mais próximo possív
 
 ### O que aprendi
 Neste projeto, pratiquei conceitos fundamentais de Front-end:
-**Flexbox**: Utilizado para centralizar o componente perfeitamente na tela.
-**Git/GitHub**: Resolução de conflitos de merge e gerenciamento de codificação de arquivos (UTF-8).
+**Flexbox**, utilizado para centralizar o componente perfeitamente na tela e 
+**Git/GitHub**, para a resolução de conflitos de merge e gerenciamento de codificação de arquivos (UTF-8).
 
 ## 👩‍💻 Desenvolvedora
 * LinkedIn - [Isis Bia](https://www.linkedin.com/in/isisbeatrizbonfim/)
